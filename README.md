@@ -1,9 +1,8 @@
 # Assignment.
-1.	Download .json file
-2.	Open mongo shell
-3.	Create a new database called “meal”
-4.	Create a collection called ‘saloon’ for database ‘meal’.
-5.	Import JSON file to “saloon” collection.
+1.	Open mongo shell
+2.	Create a new database called “meal”
+3.	Create a collection called ‘saloon’ for database ‘meal’.
+4.	Import JSON file to “saloon” collection.
 
 ```mongoimport --db <DATABASE_NAME> --collection <COLLECTION_NAME> --file <FILE_NAME>```
 
