@@ -2,7 +2,7 @@
 1.	Open mongo shell
 2.	Create a new database called “meal”
 3.	Create a collection called ‘saloon’ for database ‘meal’.
-4.	Import JSON file to “saloon” collection.
+4.	Import `saloon.json` file to “saloon” collection.
 
 ```mongoimport --db <DATABASE_NAME> --collection <COLLECTION_NAME> --file <FILE_NAME>```
 
