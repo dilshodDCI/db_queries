@@ -5,6 +5,8 @@
 4.	Create a collection called ‘saloon’ for database ‘meal’.
 5.	Import JSON file to “saloon” collection.
 
+```mongoimport --db <DATABASE_NAME> --collection <COLLECTION_NAME> --file <FILE_NAME>```
+
 ### Queries:
 1. Print all the documents in the collection saloon.  
 2. Print the fields restaurant_id, name, borough and cuisine for all the documents in the collection saloon.  
